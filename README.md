@@ -6,8 +6,6 @@
 
 Behaviour-based customer segmentation for an independent Lisbon hotel. The project replaces an industry-based market segmentation with four actionable guest profiles, each linked to a targeted marketing plan.
 
-> **Confidentiality:** This project was developed for a real company. The company's name and its data have been hidden for confidentiality reasons.
-
 ## Problem
 
 The hotel's existing `MarketSegment` field mostly showed which industry a customer came from, not how they behave as a guest. As a result, the marketing team could not design targeted campaigns. The goal was to segment roughly **111,700 customer records** by booking behaviour, spending and preferences, and to turn each segment into concrete marketing actions.
