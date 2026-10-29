@@ -57,7 +57,7 @@ The new segments are more balanced in size than the original segmentation and re
 ## Repository structure
 
 ```
-hotel-guest-segmentation/
+Hotel-Guest-Segmentation/
 ├── hotel_guest_segmentation.ipynb   # Full analysis: cleaning, features, clustering, profiling
 ├── requirements.txt
 └── README.md
